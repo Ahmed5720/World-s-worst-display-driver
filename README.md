@@ -10,4 +10,4 @@ For an in depth (kinda) tutorial:
 
 
 
-![pong](/images/pong.jpeg)
+![pong](/media/pong.jpeg)
