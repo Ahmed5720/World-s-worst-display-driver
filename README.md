@@ -6,7 +6,7 @@ In this project we are interested in gaining control over a small display connec
 
 
 For an in depth (kinda) tutorial:
-[Clickable Text](https://ahmed5720.github.io/World-s-worst-display-driver/)
+[How to write a horrible display driver](https://ahmed5720.github.io/World-s-worst-display-driver/)
 
 
 
